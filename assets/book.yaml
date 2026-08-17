@@ -1,0 +1,11 @@
+title: "My Ebook"
+subtitle: ""
+author: "Your Name"
+language: "en"
+publisher: ""
+description: ""
+identifier: ""
+date: ""
+cover: "assets/cover.jpg"
+output_name: "book"
+include_toc_heading: true
