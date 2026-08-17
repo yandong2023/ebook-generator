@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.epub
+*.docx
+*.pdf
+*.html
+**/dist/*
+!examples/sample-book/dist/.gitkeep
+
+.pytest_cache/
