@@ -1,0 +1,37 @@
+body {
+  font-family: serif;
+  line-height: 1.55;
+  margin: 5%;
+}
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  page-break-after: avoid;
+}
+h1 { margin-top: 0; }
+p { orphans: 2; widows: 2; }
+blockquote {
+  border-left: 0.25em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+pre, code { font-family: monospace; }
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  padding: 0.75em;
+  background: #f4f4f4;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #aaa;
+  padding: 0.4em;
+  vertical-align: top;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.page-break { page-break-before: always; }
