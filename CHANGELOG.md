@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 — 2026-08-15
+## 1.0.0 — 2026-08-17
 
 - Initial public version.
 - Full topic/source/manuscript-to-ebook Agent Skill workflow.
